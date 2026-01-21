@@ -1,0 +1,21 @@
+{
+  "name": "Narcissos Villa Doria",
+  "short_name": "Villa Doria",
+  "description": "Digital Guidebook - Philoxeno Demo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0891b2",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
